@@ -11,8 +11,8 @@ body {
 }
 
 main {
-    width: 320px;
-    height: 470px;
+    width: 250px;
+    height: 400px;
     background-color: #008c9e;    
     border: 1px solid #1e1e1e;
     border-radius: 5px;
@@ -26,7 +26,7 @@ main {
     background-color: aliceblue;
     border: 1px solid #1e1e1e;
     width: 90%;
-    height: 60px;
+    height: 50px;
     margin: 20px auto 10px;
     border-radius: 3px;
     font-size: 2.5rem;
