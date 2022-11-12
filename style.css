@@ -16,6 +16,7 @@ main {
     background-color: #008c9e;    
     border: 1px solid #1e1e1e;
     border-radius: 5px;
+    box-shadow: 3px 3px 5px #1e1e1e;
 }
 
 #display {
